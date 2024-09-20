@@ -1,0 +1,3 @@
+[submodule "tio-chuchero"]
+	path = tio-chuchero
+	url = https://github.com/Nullises/tio-chuchero-store.git
